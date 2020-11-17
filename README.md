@@ -1,5 +1,5 @@
-# Guia de Transparência Ativa
+# ANAC Docs
 
-O Guia de Transparência Ativa é uma compilação de obrigações cujo objetivo é auxiliar no correto cumprimento da Lei nº 12.527, de 18 de novembro de 2011 - Lei de Acesso à Informação (LAI) e demais normas que regem o assunto.
+Um guia inspirado em transparência ativa para facilitar a publicação de documentos em HTML pela ANAC.
 
-Veja como participar [aqui](CONTRIBUTING.md).
+Veja como participar: [contribua!](CONTRIBUTING.md).
